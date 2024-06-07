@@ -1,6 +1,7 @@
 ## Hi, I am Shobhit.
 
 - 📍Living in India
+- Final Year Undergrad pursuing Bachelor of technology from IIT Dhanbad.
 - I work as a Fullstack Blockchain Developer. Mostly using React, Javascript and Solidity.
 - Mail me at shobhtisingh25032003@gmai.com
 - Want to have a chat ? Schedule a meet with me at [cal.com/shobhit-singh](https://cal.com/shobhit-singh)
