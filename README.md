@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?Shobhitsingh-2503&color=blue)
+![Visitor Count](https://profile-counter.glitch.me/{Shobhitsingh-2503}/count.svg)
 
 ## Hi, I am Shobhit.
 
