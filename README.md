@@ -1,12 +1,13 @@
 ## Hi, I am Shobhit.
 
-- 📍Living in India
-- Final Year Undergrad pursuing Bachelor of technology from IIT Dhanbad.
-- I work as a Fullstack Blockchain Developer. Mostly using React, Javascript and Solidity.
+- 📍Living in India.
+- Bachelor of technology from IIT Dhanbad 2025 Batch.
+- I work as a Software Engineer. Mostly using React, Next, TypeScript and JavaScript.
 - Mail me at shobhtisingh25032003@gmai.com
-- Want to have a chat ? Schedule a meet with me at [cal.com/shobhit-singh](https://cal.com/shobhit-singh)
 
 ### Work Experience
+- Full time as a Software Engineer at Frogleaps Technologies Pvt Ltd.
+- Worked as a Software Engineer intern at Frogleaps Technologies Pvt Ltd.
 - Worked as a Web developer intern at Abhyaz.
 
 ### Projects and Brain Stormings
@@ -24,10 +25,5 @@
 ### Language and Tools
 
 <img src="https://ik.imagekit.io/tttjlp0fj/comic%20strip.png?updatedAt=1717595779219" height="100%"></img>
-
-### Shobhitsingh-2503 Holopins
-
-[![An image of @shobhitsingh2503's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shobhitsingh2503)](https://holopin.io/@shobhitsingh2503)
-
 
 
